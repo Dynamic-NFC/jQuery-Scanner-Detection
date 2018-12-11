@@ -1,0 +1,24 @@
+{
+  "name": "jQuery-Scanner-Detection",
+  "version": "1.2.1",
+  "description": "jquery-scanner-detection is a small plugin to detect when user use a scanner (barcode, QR Code...) instead of a keyboard, and call specific callbacks.",
+  "main": "jquery.scannerdetection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dynamic-NFC/jQuery-Scanner-Detection.git"
+  },
+  "keywords": [
+    "jquery",
+    "barcode",
+    "scanner"
+  ],
+  "author": "Steve Chan <steve@dynamicnfc.com> (https://github.com/dynamicnfc)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dynamic-NFC/jQuery-Scanner-Detection/issues"
+  },
+  "homepage": "https://github.com/Dynamic-NFC/jQuery-Scanner-Detection#readme"
+}
